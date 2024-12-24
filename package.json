@@ -1,0 +1,25 @@
+{
+  "name": "zephyr",
+  "version": "1.0.0",
+  "description": "A Repository with zephyr template",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhat418/zephyr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhat418/zephyr/issues"
+  },
+  "homepage": "https://github.com/Nikhat418/zephyr#readme"
+}
